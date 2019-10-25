@@ -1,0 +1,14 @@
+{
+  "name": "line-puller",
+  "version": "1.0.1",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^6.2.2"
+  }
+}
